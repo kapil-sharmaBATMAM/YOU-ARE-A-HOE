@@ -1,6 +1,5 @@
 # YOU-ARE-A-HOE
 Target is not loyal. A manipulative bitch, for the streets
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -68,10 +67,9 @@ Target is not loyal. A manipulative bitch, for the streets
   <h3>REMEMBER – A HOE IS ALWAYS A HOE</h3>
 
   <p><b>YOUR NAME BELOW PLEASE:</b></p>
-  <iframe 
+
     <<div id="ff-compose"></div>
 <script async defer src="https://formfacade.com/include/115477754012515596858/form/1FAIpQLSfe8YpPH09PBdwdnSHcKVCuMsUbmxjcvIepBAqJWW9pmOx1Tw/classic.js?div=ff-compose"></script>
-  </iframe>
 
   <div class="footer">
     I DON'T LIKE LYING BITCHES AND MANIPULATOR.<br>
