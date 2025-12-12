@@ -69,7 +69,7 @@ Target is not loyal. A manipulative bitch, for the streets
   <p><b>YOUR NAME BELOW PLEASE:</b></p>
 
     <<div id="ff-compose"></div>
-<script  <h2 style="text-align:center;">Fill Out This Form</h2>
+<script(ignore slightly mistakes ima rookie ) <h2 style="text-align:center;">Fill Out This Form</h2>
 <div style="position: relative; width: 100%; max-width: 700px; margin: auto; padding-bottom: 120%; background: rgba(255,255,255,0.9); border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); overflow: hidden;">
   <iframe 
     src="https://docs.google.com/forms/d/e/1FAIpQLSfe8YpPH09PBdwdnSHcKVCuMsUbmxjcvIepBAqJWW9pmOx1Tw/viewform?embedded=true" 
