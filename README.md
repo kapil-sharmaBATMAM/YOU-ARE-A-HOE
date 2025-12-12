@@ -79,7 +79,7 @@ Target is not loyal. A manipulative bitch, for the streets
     marginwidth="0">
     Loading…
   </iframe>
-      </div>
+</div>
   <div class="footer">
     I DON'T LIKE LYING BITCHES AND MANIPULATOR.<br>
     YOU KNOW WHO I'M TALKING ABOUT MF!<br>
