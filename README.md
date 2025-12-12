@@ -69,7 +69,7 @@ Target is not loyal. A manipulative bitch, for the streets
   <p><b>YOUR NAME BELOW PLEASE:</b></p>
 
     <<div id="ff-compose"></div>
-<script async defer <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfe8YpPH09PBdwdnSHcKVCuMsUbmxjcvIepBAqJWW9pmOx1Tw/viewform?embedded=true" width="640" height="449" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<script async defer <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfe8YpPH09PBdwdnSHcKVCuMsUbmxjcvIepBAqJWW9pmOx1Tw/viewform?usp=header</iframe>
   <div class="footer">
     I DON'T LIKE LYING BITCHES AND MANIPULATOR.<br>
     YOU KNOW WHO I'M TALKING ABOUT MF!<br>
