@@ -69,8 +69,7 @@ Target is not loyal. A manipulative bitch, for the streets
   <p><b>YOUR NAME BELOW PLEASE:</b></p>
 
     <<div id="ff-compose"></div>
-<script async defer src="https://formfacade.com/include/115477754012515596858/form/1FAIpQLSfe8YpPH09PBdwdnSHcKVCuMsUbmxjcvIepBAqJWW9pmOx1Tw/classic.js?div=ff-compose"></script>
-
+<script async defer src="https://forms.gle/R623xjvVsp15cTF9A
   <div class="footer">
     I DON'T LIKE LYING BITCHES AND MANIPULATOR.<br>
     YOU KNOW WHO I'M TALKING ABOUT MF!<br>
