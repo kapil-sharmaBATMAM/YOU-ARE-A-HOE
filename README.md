@@ -62,11 +62,10 @@ Target is not loyal. A manipulative bitch, for the streets
 </head>
 <body>
   <h1>THE LESS I KNOW THE BETTER</h1>
-  <h2>BY BATMAN (KAPIL SHARMA)</h2>
+  <h2>BY BATMAN </h2>
 
   <h3>REMEMBER – A HOE IS ALWAYS A HOE</h3>
-
-  <p><b>YOUR NAME BELOW PLEASE:</b></p>
+  CHAOS ISN'T A PIT,CHAOS IS LADDER  <p><b>YOUR NAME BELOW PLEASE:</b></p>
 
     <<div id="ff-compose"></div>
 <script(ignore slightly mistakes ima rookie ) <h2 style="text-align:center;">Fill Out This Form</h2>
@@ -81,10 +80,9 @@ Target is not loyal. A manipulative bitch, for the streets
   </iframe>
 </div>
   <div class="footer">
-    I DON'T LIKE LYING BITCHES AND MANIPULATOR.<br>
-    YOU KNOW WHO I'M TALKING ABOUT MF!<br>
-    SHITTY ASSHOLES THINK I'M TOO INNOCENT TO DEAL<br>
-    BUT YOU DON'T KNOW WHAT I AM BITCH.
+    EVERYONEIS YOUR ENEMY,EVERYONEISYOUR FRIEND..LIVE THAT WAY AND NOTHING WOULD SURPRISE YOU.<br>
+    EVERYTHING THAT HAPPENS IS SOMETHING YOU HAVE SEEN BEFORE <br>
+    I'M NOT MID BITCH.
   </div>
 </body>
 </html>
